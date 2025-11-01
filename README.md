@@ -53,20 +53,7 @@ pip install pandas scikit-learn matplotlib seaborn
 1. Clone this repository:
    
    ```
-git clone https://github.com/your-username/height-prediction.git
+git clone https://github.com/fuleabhijit/height-prediction.git
 cd height-prediction
 ```
 
-2. Place the height-weight.csv dataset in your working directory.
-
-3. Run the notebook or Python script to reproduce results:
-   
-   ```
-jupyter notebook Height_Prediction.ipynb
-```
-   
-   or
-   
-   ```
-python height_prediction.py
-```
